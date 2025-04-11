@@ -1,5 +1,5 @@
 # Dataplay_Placement_Dashboard
-# 📊 Placement Dashboard - Power BI Project
+## Power BI Project
 
 Welcome to the Placement Dashboard project! This interactive Power BI dashboard was created to analyze and visualize placement data effectively. It provides valuable insights for educational institutions, students, and recruiters by uncovering trends, tracking performance, and highlighting key placement statistics.
 
